@@ -1,0 +1,9 @@
+Write a python program that prints a 5 row pyramid which exceeds by 2 columns after every row in binary.
+
+Expected Output:
+
+1
+101
+10101
+1010101
+101010101
