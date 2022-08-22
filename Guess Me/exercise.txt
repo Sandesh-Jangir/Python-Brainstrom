@@ -1,0 +1,10 @@
+Write a python program in which a random number is generated between 1 and 100 and user is asked to guess it. When the user fails to guess it then remind wether the number is greater or higher than  the generated number and at the end give the score.
+
+Sample:-
+27
+higher
+30
+lower
+28 
+correct!!
+score 97
